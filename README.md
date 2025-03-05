@@ -28,3 +28,7 @@ After running the script, you will find all the processed documentation pages in
 ## Development Environment
 
 This project was created in Visual Studio Code using Aider and Grok.
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Aider](https://aider.chat/)
+- [Grok](https://x.ai/)
