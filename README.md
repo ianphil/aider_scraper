@@ -32,3 +32,5 @@ This project was created in Visual Studio Code using Aider and Grok.
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Aider](https://aider.chat/)
 - [Grok](https://x.ai/)
+
+Thank you for using the Aider Documentation Scraper!
