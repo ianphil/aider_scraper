@@ -24,3 +24,7 @@ This project is designed to scrape and convert the documentation pages from the 
 4. The script will process the documentation pages and save them as Markdown files in the `aider_docs` directory.
 
 After running the script, you will find all the processed documentation pages in Markdown format in the `aider_docs` directory.
+
+## Development Environment
+
+This project was created in Visual Studio Code using Aider and Grok.
